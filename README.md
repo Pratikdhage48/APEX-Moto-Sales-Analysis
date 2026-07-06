@@ -2,7 +2,7 @@
 
 An end-to-end data analytics portfolio project covering **SQL Server database design, Python data cleaning & EDA, and Power BI dashboarding** — built on three years (2020–2022) of APEX Moto sales, customer, product, and returns data.
 
-> **Tech Stack:** Microsoft SQL Server 2022 · Python (Pandas, Matplotlib, Seaborn) · Jupyter Notebook · Power BI
+> **Tech Stack:** Microsoft SQL Server 2022 · Python (Pandas, Numpy, Matplotlib, Seaborn) · Jupyter Notebook · Power BI . Excel
 
 ---
 
