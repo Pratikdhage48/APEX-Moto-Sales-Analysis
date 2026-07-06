@@ -133,4 +133,4 @@ See [`Images/`](Images/) for report screenshots.
 
 ## 📄 License
 
-This project uses a publicly available sample retail dataset (rebranded as "APEX Moto") for educational/portfolio purposes.
+This project uses a publicly available sample retail dataset for educational/portfolio purposes.
